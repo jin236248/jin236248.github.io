@@ -1,6 +1,15 @@
-## This page is still under construction.
+# This page is still under construction.
+
+## Publications
+
+- **J. Cheevaprawatdomrong**, A. Schofield, and A. T. Rutherford. [More Than Words:
+Collocation Tokenization for Latent Dirichlet Allocation Models](assets/docs/More_Than_Words.pdf). Findings of the ACL, 2022.
+- P. Chormai, P. Prasertsom, **J. Cheevaprawatdomrong**, and A. T. Rutherford.
+[Syllable-based Neural Thai Word Segmentation](assets/docs/Word_Segmentation.pdf). COLING, 2020.
+
 
 ## Certificates[^1]
+[^1]: Please click the link for the verifiable certificate
 
 ### Computer and Data Science
 - MITx, [Intro to Computer Science and Programming Using Python](https://courses.edx.org/certificates/fef8542658bd4d91be23591e382129a6)
@@ -24,7 +33,7 @@ Nations: Global Economic Development Past and Present]()
 
 
 
-[^1]: Please click the link for the verifiable certificate
+
 
 
 ## Welcome to GitHub Pages
