@@ -1,5 +1,7 @@
 # Jin Ch
 
+This page supplements my curriculum vitae by providing online contents and downloadable documents
+
 ## Publications
 
 - **J. Cheevaprawatdomrong**, A. Schofield, and A. T. Rutherford. [More Than Words:
@@ -7,7 +9,11 @@ Collocation Tokenization for Latent Dirichlet Allocation Models](assets/docs/Mor
 - P. Chormai, P. Prasertsom, **J. Cheevaprawatdomrong**, and A. T. Rutherford.
 [Syllable-based Neural Thai Word Segmentation](assets/docs/Word_Segmentation.pdf). COLING, 2020.
 
-## Writing
+## Articles
+
+to be added
+
+## Projects
 
 to be added
 
