@@ -8,8 +8,7 @@ Collocation Tokenization for Latent Dirichlet Allocation Models](assets/docs/Mor
 [Syllable-based Neural Thai Word Segmentation](assets/docs/Word_Segmentation.pdf). COLING, 2020.
 
 
-## Certificates[^1]
-[^1]: Please click the link for the verifiable certificate
+## Certificates
 
 ### Computer and Data Science
 - MITx, [Intro to Computer Science and Programming Using Python](https://courses.edx.org/certificates/fef8542658bd4d91be23591e382129a6)
