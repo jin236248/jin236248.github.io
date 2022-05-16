@@ -1,3 +1,10 @@
+## This page is still under construction.
+
+## Certificates
+MITx, [Intro to Computer Science and Programming Using Python](https://courses.edx.org/certificates/fef8542658bd4d91be23591e382129a6)
+
+* Please click the link for the verifiable certificate
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jin236248/jin236248.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
