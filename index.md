@@ -1,6 +1,6 @@
 # Jin Ch
 
-This page supplements my curriculum vitae by providing online contents and downloadable documents
+This page supplements my curriculum vitae with downloadable papers, article links, project pages, and verifiable certificates.
 
 ## Publications
 
@@ -35,8 +35,8 @@ to be added
 ### Economics and Finance
 - London School of Economics and Political Science, [The Wealth (and Poverty) of
 Nations: Global Economic Development Past and Present]()
-- MichiganX, [Financial Decision Rules for Project Evaluation](https://courses.edx.org/certificates/c5da5308db6d4c55b4c604a25f6a5e59)
-- MichiganX, [Finance for Everyone: Smart Tools for Decision-Making](https://courses.edx.org/certificates/e2d4fa15441945d984485bb2b5ff4bc7)
+- University of Michigan, [Financial Decision Rules for Project Evaluation](https://courses.edx.org/certificates/c5da5308db6d4c55b4c604a25f6a5e59)
+- University of Michigan, [Finance for Everyone: Smart Tools for Decision-Making](https://courses.edx.org/certificates/e2d4fa15441945d984485bb2b5ff4bc7)
 - Enodo Economics, [China - Understanding the Fundamentals](https://courses.edx.org/certificates/1f32aee413384e979c4ce5b75d2a97b9)
 
 
