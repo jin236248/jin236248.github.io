@@ -1,6 +1,6 @@
 # Jin Ch
 
-This page supplements my curriculum vitae with downloadable papers, article links, project pages, and verifiable certificates.
+This page supplements my curriculum vitae with downloadable papers and verifiable certificates.
 
 ## CV
 
