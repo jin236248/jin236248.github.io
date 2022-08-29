@@ -4,7 +4,7 @@ This page supplements my curriculum vitae with downloadable papers, article link
 
 ## CV
 
-[Download](assets/docs/cheeva-cv.pdf)
+[Download](assets/docs/cheeva_cv.pdf)
 
 ## Publications
 
