@@ -2,6 +2,10 @@
 
 This page supplements my curriculum vitae with downloadable papers, article links, project pages, and verifiable certificates.
 
+## CV
+
+[Download](assets/docs/cheeva-cv.pdf)
+
 ## Publications
 
 - **J. Cheevaprawatdomrong**, A. Schofield, and A. T. Rutherford. [More Than Words:
