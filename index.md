@@ -4,7 +4,7 @@ This page supplements my curriculum vitae with downloadable papers, article link
 
 ## CV
 
-[Download](assets/docs/cheeva_cv.pdf)
+[Pdf](assets/docs/cheeva_cv.pdf)
 
 ## Publications
 
@@ -13,36 +13,22 @@ Collocation Tokenization for Latent Dirichlet Allocation Models](assets/docs/Mor
 - P. Chormai, P. Prasertsom, **J. Cheevaprawatdomrong**, and A. T. Rutherford.
 [Syllable-based Neural Thai Word Segmentation](assets/docs/Word_Segmentation.pdf). COLING, 2020.
 
-## Articles
-
-to be added
-
-## Projects
-
-to be added
-
 ## Certificates
 
-### Computer and Data Science
-- MITx, [Intro to Computer Science and Programming Using Python](https://courses.edx.org/certificates/fef8542658bd4d91be23591e382129a6)
-- HarvardX, [CS50’s Introduction to Computer Science](https://courses.edx.org/certificates/e9ea6c9ab4884687b80c536f0394a0e7)
-- HarvardX, [Fat Chance: Probability from the Ground Up](https://courses.edx.org/certificates/c7610a6396684fbb84e0682820e8bf28)
-- Datacamp, [Data Scientist Career Track](https://www.datacamp.com/statement-of-accomplishment/track/3b56e2dbdde893aaf1e066736752f88a3ecd1da3)
-- Datacamp, [Advanced NLP with spaCy Course](https://www.datacamp.com/statement-of-accomplishment/course/e25048004b6ea979f69c1efc25f49678553b0313)
+### Economics and Finance
+- [Financial Decision Rules for Project Evaluation](https://courses.edx.org/certificates/c5da5308db6d4c55b4c604a25f6a5e59), University of Michigan
+- [China - Understanding the Fundamentals](https://courses.edx.org/certificates/1f32aee413384e979c4ce5b75d2a97b9), Enodo Economics
 
 ### Humanities
-- University of Pennsylvania, [Certificate in Professional Writing]()
-- University of Pennsylvania, [Certificate in Creative Writing]()
-- HarvardX, [Introduction to Digital Humanities](https://courses.edx.org/certificates/b011e916c3f24aae919865a9af89c874)
-- HarvardX, [The Architectural Imagination](https://courses.edx.org/certificates/015d94b104934ad088c3bd7afff80b3e)
+- [Introduction to Digital Humanities Online Workshop](assets/docs/oxford_dh.pdf), Oxford University
+- [Introduction to Digital Humanities](https://courses.edx.org/certificates/b011e916c3f24aae919865a9af89c874), HarvardX
+- [The Architectural Imagination](https://courses.edx.org/certificates/015d94b104934ad088c3bd7afff80b3e), HarvardX
 
-### Economics and Finance
-- London School of Economics and Political Science, [The Wealth (and Poverty) of
-Nations: Global Economic Development Past and Present]()
-- University of Michigan, [Financial Decision Rules for Project Evaluation](https://courses.edx.org/certificates/c5da5308db6d4c55b4c604a25f6a5e59)
-- University of Michigan, [Finance for Everyone: Smart Tools for Decision-Making](https://courses.edx.org/certificates/e2d4fa15441945d984485bb2b5ff4bc7)
-- Enodo Economics, [China - Understanding the Fundamentals](https://courses.edx.org/certificates/1f32aee413384e979c4ce5b75d2a97b9)
 
+### Computer and Data Science
+- [Intro to Computer Science and Programming Using Python](https://courses.edx.org/certificates/fef8542658bd4d91be23591e382129a6), MITx
+- [CS50’s Introduction to Computer Science](https://courses.edx.org/certificates/e9ea6c9ab4884687b80c536f0394a0e7), HarvardX
+- [Data Scientist Career Track](https://www.datacamp.com/statement-of-accomplishment/track/3b56e2dbdde893aaf1e066736752f88a3ecd1da3), Datacamp
 
 
 
