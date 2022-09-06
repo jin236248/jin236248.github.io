@@ -20,7 +20,7 @@ Collocation Tokenization for Latent Dirichlet Allocation Models](assets/docs/Mor
 - [China - Understanding the Fundamentals](https://courses.edx.org/certificates/1f32aee413384e979c4ce5b75d2a97b9), Enodo Economics
 
 ### Social Sciences and Humanities
-- [Network Dynamics of Social Behavior](https://www.coursera.org/account/accomplishments/verify/6DMA386BVBUB?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course), University of Pennsylvania
+- [Network Dynamics of Social Behavior](https://coursera.org/verify/6DMA386BVBUB), University of Pennsylvania
 - [Introduction to Digital Humanities Online Workshop](assets/docs/oxford_dh.pdf), Oxford University
 - [Introduction to Digital Humanities](https://courses.edx.org/certificates/b011e916c3f24aae919865a9af89c874), HarvardX
 - [The Architectural Imagination](https://courses.edx.org/certificates/015d94b104934ad088c3bd7afff80b3e), HarvardX
