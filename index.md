@@ -19,7 +19,8 @@ Collocation Tokenization for Latent Dirichlet Allocation Models](assets/docs/Mor
 - [Financial Decision Rules for Project Evaluation](https://courses.edx.org/certificates/c5da5308db6d4c55b4c604a25f6a5e59), University of Michigan
 - [China - Understanding the Fundamentals](https://courses.edx.org/certificates/1f32aee413384e979c4ce5b75d2a97b9), Enodo Economics
 
-### Humanities
+### Social Sciences and Humanities
+- [Network Dynamics of Social Behavior](https://www.coursera.org/account/accomplishments/verify/6DMA386BVBUB?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course), University of Pennsylvania
 - [Introduction to Digital Humanities Online Workshop](assets/docs/oxford_dh.pdf), Oxford University
 - [Introduction to Digital Humanities](https://courses.edx.org/certificates/b011e916c3f24aae919865a9af89c874), HarvardX
 - [The Architectural Imagination](https://courses.edx.org/certificates/015d94b104934ad088c3bd7afff80b3e), HarvardX
