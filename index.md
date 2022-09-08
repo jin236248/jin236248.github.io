@@ -2,9 +2,9 @@
 
 This page supplements my curriculum vitae with downloadable papers and verifiable certificates.
 
-## CV
+<!-- ## CV
 
-- [Pdf](assets/docs/cheeva_cv.pdf)
+- [Pdf](assets/docs/cheeva_cv.pdf) -->
 
 ## Publications
 
