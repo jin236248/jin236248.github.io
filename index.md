@@ -1,4 +1,4 @@
-# Jin Ch
+# Jin Cheevaprawatdomrong
 
 This page supplements my curriculum vitae with downloadable papers and verifiable certificates.
 
