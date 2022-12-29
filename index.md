@@ -40,6 +40,7 @@ Collocation Tokenization for Latent Dirichlet Allocation Models](assets/docs/Mor
 
 ### Social Sciences
 - [Network Dynamics of Social Behavior](https://coursera.org/verify/6DMA386BVBUB), University of Pennsylvania
+
 <!--
 ## Welcome to GitHub Pages
 - You can use the [editor on GitHub](https://github.com/jin236248/jin236248.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
