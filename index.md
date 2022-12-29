@@ -31,7 +31,7 @@ Collocation Tokenization for Latent Dirichlet Allocation Models](assets/docs/Mor
 - [China - Understanding the Fundamentals](https://courses.edx.org/certificates/1f32aee413384e979c4ce5b75d2a97b9), Enodo Economics
 
 ### Professional Writing
-- [Certificate in Advanced Professional Writing], University of Pennsylvania
+- [Certificate in Advanced Professional Writing](assets/docs/Cert_Professional_Writing.pdf), University of Pennsylvania
 
 ### Humanities
 - [Introduction to Digital Humanities Online Workshop](assets/docs/oxford_dh.pdf), Oxford University
