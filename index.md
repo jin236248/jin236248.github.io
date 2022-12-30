@@ -21,11 +21,13 @@ Collocation Tokenization for Latent Dirichlet Allocation Models](assets/docs/Mor
 
 #### Data Science
 - [Data Scientist Career Track](https://www.datacamp.com/statement-of-accomplishment/track/3b56e2dbdde893aaf1e066736752f88a3ecd1da3), Datacamp
+- [Data Visualization in Python with Dash](assets/docs/Cert_Python_Dash.pdf), Linkedin Learning
 
 #### Mathematics
 - [Fat Chance: Probability from the Ground Up](https://courses.edx.org/certificates/c7610a6396684fbb84e0682820e8bf28), HarvardX
 
 #### Economics and Finance
+-  [Bloomberg Market Cocepts (Bloomberg Terminal)](https://portal.bloombergforeducation.com/certificates/CSnJgsAt2CfraveKUM3rsM7S), Bloomberg for Education
 - [Financial Decision Rules for Project Evaluation](https://courses.edx.org/certificates/c5da5308db6d4c55b4c604a25f6a5e59), University of Michigan
 - [Finance for Everyone: Smart Tools for Decision-Making](https://courses.edx.org/certificates/e2d4fa15441945d984485bb2b5ff4bc7), University of Michigan
 - [China - Understanding the Fundamentals](https://courses.edx.org/certificates/1f32aee413384e979c4ce5b75d2a97b9), Enodo Economics
