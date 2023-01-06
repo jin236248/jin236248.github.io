@@ -24,6 +24,9 @@ Collocation Tokenization for Latent Dirichlet Allocation Models](assets/docs/Mor
 - [Data Visualization in Python with Dash](assets/docs/Cert_Python_Dash.pdf), Linkedin Learning
 
 #### Mathematics
+<!--
+- [Single Variable Calculus](), University of Pennsylvania
+- [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/certificate/5D3RQU7WSHNN), Imperial College London -->
 - [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/certificate/S932HKACBCLT), Imperial College London
 - [Fat Chance: Probability from the Ground Up](https://courses.edx.org/certificates/c7610a6396684fbb84e0682820e8bf28), HarvardX
 
