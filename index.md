@@ -1,10 +1,15 @@
-# Jin Cheevaprawatdomrong
+## Jin Cheevaprawatdomrong
 
-This page supplements my curriculum vitae with downloadable papers and certificates.
+- [Linkedin](https://www.linkedin.com/in/jincheeva/)
+- [Google Scholar](https://scholar.google.com/citations?user=1OzqoisAAAAJ&hl=en)
+- [Github](https://github.com/jin236248/)
 
-<!-- ## CV
+<!-- 
+This page supplements my curriculum vitae with downloadable papers.
 
-- [Pdf](assets/docs/cheeva_cv.pdf) -->
+## CV
+
+- [Pdf](assets/docs/cheeva_cv.pdf)
 
 ## Publications
 
@@ -13,7 +18,7 @@ Collocation Tokenization for Latent Dirichlet Allocation Models](assets/docs/Mor
 - P. Chormai, P. Prasertsom, **J. Cheevaprawatdomrong**, and A. T. Rutherford.
 [Syllable-based Neural Thai Word Segmentation](assets/docs/Word_Segmentation.pdf). COLING, 2020.
 
-## Certificates
+<!-- ## Certificates
 
 #### Computer Science
 - [Intro to Computer Science and Programming Using Python](https://courses.edx.org/certificates/fef8542658bd4d91be23591e382129a6), MITx
@@ -24,9 +29,8 @@ Collocation Tokenization for Latent Dirichlet Allocation Models](assets/docs/Mor
 - [Data Visualization in Python with Dash](assets/docs/Cert_Python_Dash.pdf), Linkedin Learning
 
 #### Mathematics
-<!--
 - [Single Variable Calculus](), University of Pennsylvania
-- [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/certificate/5D3RQU7WSHNN), Imperial College London -->
+- [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/certificate/5D3RQU7WSHNN), Imperial College London 
 - [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/certificate/S932HKACBCLT), Imperial College London
 - [Fat Chance: Probability from the Ground Up](https://courses.edx.org/certificates/c7610a6396684fbb84e0682820e8bf28), HarvardX
 
@@ -45,7 +49,7 @@ Collocation Tokenization for Latent Dirichlet Allocation Models](assets/docs/Mor
 - [The Architectural Imagination](https://courses.edx.org/certificates/015d94b104934ad088c3bd7afff80b3e), HarvardX
 
 #### Social Sciences
-- [Network Dynamics of Social Behavior](https://coursera.org/verify/6DMA386BVBUB), University of Pennsylvania
+- [Network Dynamics of Social Behavior](https://coursera.org/verify/6DMA386BVBUB), University of Pennsylvania -->
 
 <!--
 ## Welcome to GitHub Pages
