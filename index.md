@@ -10,8 +10,8 @@ This page supplements my curriculum vitae with downloadable papers.
 ## CV
 
 - [Pdf](assets/docs/cheeva_cv.pdf)
-
-## Publications
+-->
+### Publications
 
 - **J. Cheevaprawatdomrong**, A. Schofield, and A. T. Rutherford. [More Than Words:
 Collocation Tokenization for Latent Dirichlet Allocation Models](assets/docs/More_Than_Words.pdf). Findings of the ACL, 2022.
